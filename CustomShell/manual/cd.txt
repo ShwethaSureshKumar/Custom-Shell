@@ -1,0 +1,14 @@
+CD
+
+NAME
+	cd - change directory
+
+SYNOPSIS
+	cd [PATH-OPTIONAL]
+
+DESCRIPTION	
+	The cd command in Linux and Unix systems is used to change the current working directory. It allows the user to navigate through the file system and access files and directories in different locations.
+
+	cd ~ OR cd ~/ : changes the current working directory to the user's home directory.
+	
+	cd .. : changes the current working directory to the parent directory.

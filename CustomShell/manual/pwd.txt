@@ -1,0 +1,10 @@
+PWD
+
+NAME
+	pwd : Prints name of current/working directory
+
+SYNOPSIS
+	pwd [OPTION]...
+
+DESCRIPTION
+	 Print the full filename of the current working directory.

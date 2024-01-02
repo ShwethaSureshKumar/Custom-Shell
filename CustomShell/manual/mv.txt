@@ -1,0 +1,12 @@
+NAME
+       mv - move (rename) files
+
+SYNOPSIS
+       mv [OPTION]...  SOURCE DEST
+       mv [OPTION]... SOURCE... DIRECTORY
+
+       -f, --force
+              do not prompt before overwriting
+       -v, --verbose
+              explain what is being done
+

@@ -1,0 +1,10 @@
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp  SOURCE DEST
+       cp  SOURCE... DIRECTORY
+
+DESCRIPTION
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+

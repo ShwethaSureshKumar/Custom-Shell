@@ -1,0 +1,8 @@
+NAME
+       sleep - delay for a specified amount of time
+
+SYNOPSIS
+       sleep NUMBER[SUFFIX]...
+
+DESCRIPTION
+       Pause  for  NUMBER seconds.  SUFFIX may be 's' for seconds (the default) and 'm' for minutes.

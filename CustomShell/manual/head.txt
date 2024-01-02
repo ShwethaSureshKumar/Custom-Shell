@@ -1,0 +1,12 @@
+HEAD
+
+NAME
+	head - output the first part of files
+
+SYNOPSIS
+       head [OPTION]... [FILE]...
+
+DESCRIPTION
+       Print the first 10 lines of each FILE to standard output.
+
+	-n : print the first n lines instead of the first 10.

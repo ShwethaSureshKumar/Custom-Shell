@@ -1,0 +1,5 @@
+ls
+cd ..
+ls
+play melliname.mp3
+exit

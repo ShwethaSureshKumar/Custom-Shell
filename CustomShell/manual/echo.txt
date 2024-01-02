@@ -1,0 +1,8 @@
+NAME
+       echo - display a line of text
+
+SYNOPSIS
+       echo [OPTION]... [STRING]...
+
+DESCRIPTION
+       Echo the STRING(s) to standard output.

@@ -1,0 +1,21 @@
+LS
+
+NAME
+	ls : list directory contents
+
+SYNOPSIS
+	ls [OPTION]... [FILE]...
+
+DESCRIPTION
+	List information about the FILEs (the current directory by default).
+	
+	-a : do not ignore entries starting with .
+	
+	-l : information about each file or directory in the specified directory
+		-->File type and permissions
+		-->Number of hard links
+		-->Owner name
+		-->Group name
+		-->File size
+		-->Date and time of last modification
+		-->File or directory name 

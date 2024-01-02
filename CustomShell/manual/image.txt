@@ -1,0 +1,8 @@
+NAME
+       image - display an image
+
+SYNOPSIS
+       image [file]
+
+DESCRIPTION
+       Opens the image in default image viewer.
